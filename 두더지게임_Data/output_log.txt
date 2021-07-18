@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.5206
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\game\build game\MollyMolly\두더지게임_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\game\build game\MollyMolly\두더지게임_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\game\build game\MollyMolly\두더지게임_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 75Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.602400 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 18cc -> priority: 1 
+  Thread -> id: 41ec -> priority: 1 
+  Thread -> id: 6550 -> priority: 1 
+  Thread -> id: e24 -> priority: 1 
+  Thread -> id: 5620 -> priority: 1 
+  Thread -> id: 1bf4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.277600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 0.136800 ms (FindLiveObjects: 0.019200 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.091600 ms  DeleteObjects: 0.006200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.268300 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 0.135000 ms (FindLiveObjects: 0.016600 ms CreateObjectMapping: 0.021700 ms MarkObjects: 0.081000 ms  DeleteObjects: 0.015300 ms)
+
